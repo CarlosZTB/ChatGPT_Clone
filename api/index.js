@@ -31,7 +31,7 @@ app.post("/", async (req, res) => {
   const runIndex = async () => {
     const operand = operandClient(
       ObjectService,
-      "t4h108xy2w26rkuurxxmd262rnggy2ki",
+      "Key t4h108xy2w26rkuurxxmd262rnggy2ki",
       "https://api.operand.ai",
       {
         [indexIDHeaderKey]: "0t3b0mgp1xu8rmab",
